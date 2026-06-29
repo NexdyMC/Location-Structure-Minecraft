@@ -1,0 +1,30 @@
+{
+    "OptionMenu": [
+        {
+            "minecraft": "1.16",
+            "data": {
+                "nether": {
+                    "bastion": "assets/nether/bastion/bastion-1.16.exe",
+                    "fortress": "assets/nether/fortress/fortress-1.16.exe"
+                },
+                "overworld": {
+                    "ruined_portal": "assets/overworld/ruined_portal/ruined_portal-1.16.exe",
+                    "stronghold": "assets/overworld/stronghold/stronghold-1.16.exe",
+                    "village": "assets/overworld/village/village-1.16.exe"
+                }
+            }
+        },
+        {
+            "minecraft": "1.16.1",
+            "data": {
+                "nether": {
+                    "bastion": "assets/nether/bastion/bastion-1.16.1.exe",
+                    "fortress": "assets/nether/fortress/fortress-1.16.1.exe"
+                },
+                "overworld": {
+                    "stronghold": "assets/overworld/stronghold/stronghold-1.16.1.exe"
+                }
+            }
+        }
+    ]
+}
